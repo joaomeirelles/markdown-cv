@@ -3,7 +3,7 @@ layout: cv
 title: Joao Meirelles's CV
 ---
 # Joao Meirelles
-Physicist, Mathematician, Cambridge professor.
+Environmental engineer, Data Scientist
 
 <div id="webaddress">
 <a href="mailto:joao.meirelles@epfl.ch">joao(dot)meirelles(at)epfl(dot)ch</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-PhD student at <a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a> on Dynamics of the Urban Metabolism
+PhD student at <a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a> on Dynamics of the Urban Metabolism. Also part of <a href="#" onclick="window.open('https://www.facebook.com/databaseriodejaneiro/')">DATABASE / Rio de Janero</a> and of <a href="#" onclick="window.open('http://metabolismofcities.org/')">Metabolism of Cities</a>.
 
 <!---
 ### Specialized in
@@ -74,19 +74,24 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2014-2016`
+__PENSA - Big Data Team of Rio de Janeiro City Hall__, RJ/BR
+- Data Scientist
 
-- Warden
-- Minted coins
+`2012 - 2013`
+__Pereira Passos Urbanism Intitute__, RJ/BR
+- Intern - urban data analysis
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2011 - 2012`
+__UN-Habitat / ROLAC__, RJ/BR
+- Intern - environmental data analysis
+
+`2010 - 2011`
+__Aqua Modelo__, RJ/BR
+- Intern - hydrological studies and hydrodynamic modelling
 
 
+### Footer
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+Last updated: Mar 2017
 
