@@ -11,7 +11,7 @@ Environmental engineer, Data Scientist
 </div>
 
 ## About
-born: 02/07/1989
+born: 02/07/1989<br>
 Rio de Janeiro, Brazil
 
 ## Currently
@@ -158,17 +158,17 @@ __UFF | Federal Fluminense Univesiry, BR__
 
 
 ## Languages
-Portuguese native
-English fluent
-Spanish fluent
+Portuguese native<br>
+English fluent<br>
+Spanish fluent<br>
 French basic
 
 ## Programming
-Python
-R
-SQL
-GIS
-processing
+Python<br>
+R<br>
+SQL<br>
+GIS<br>
+processing<br>
 linux
 
 ### notes
