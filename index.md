@@ -36,11 +36,11 @@ science of cities, data analysis, complex systems, mathematical modeling, urban 
 
 `2008-2012`
 __UFF | Fluminense Federal University, BR__
-- Bsc in Environmental and Water Resources Engineering
+- BSc in Environmental and Water Resources Engineering
 
 `2013 - 2015`
 __USP | São Paulo Univerity, BR__
-- Msc in Complex Systems Modeling
+- MSc in Complex Systems Modeling
 
 `2016 - now`
 __EPFL | École Polytechnique Fédérale de Lausanne, CH__
