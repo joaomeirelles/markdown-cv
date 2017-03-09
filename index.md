@@ -8,7 +8,7 @@ Environmental engineer, Data Scientist
 <div id="webaddress">
 <a href="mailto:joao.meirelles@epfl.ch">joao.meirelles@epfl.ch</a>
 <a href="http://joaomeirelles.github.io">webpage</a>
-<a href="https://twitter.com/joaovmeirelles">twitter</a>
+<a href="#" onclick="https://twitter.com/joaovmeirelles">twitter</a>
 
 </div>
 
@@ -69,7 +69,7 @@ Ribeiro FL, Meirelles J,Ferreira FF, Neto CR. 2017 A model of urban scaling laws
 ### Book Chapters
 
 `2016`
-Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669">The Social Fabric of Cities</a>. 1ed.: Routledge, 2016, v. , p. 37-59.
+Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="#" onclick="https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669">The Social Fabric of Cities</a>. 1ed.: Routledge, 2016, v. , p. 37-59.
 
 
 
