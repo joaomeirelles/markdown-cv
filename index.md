@@ -109,8 +109,8 @@ __Sea Projects__, BR
 
 
 `2016`
-__Technische Universität Wien__, CH
-- ETH Zurich
+__ETH Zurich__, CH
+- Systemic Life Cycle Analysis Summer School
 
 `2016`
 __Technische Universität Wien__, AT
