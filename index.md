@@ -78,7 +78,43 @@ Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . 
 Freire, :. E. H. B. ; Bienenstein, R. ; Pereira Junior, N. D. ; Meirelles, J. V . Qualidade de Vida e Respeito ao Meio Ambiente - ODM7: Garantir a Sustentabilidade Ambiental.. In: Grimard A., Roldan O., Amaral D., Meirelles J.. (Org.). Monitoramento de Indicadores Socioeconômicos nos Municípios do Entorno do Complexo Petroquímico do Estado do Rio de Janeiro. 1ed.Niterói - RJ: EDUFF, 2012, v. , p. 1-.
 -->
 
-### Posters and Congress
+### Posters and Congress Presentaitons
+
+`2016`
+2016 Conference on Complex Systems<br>
+accepted paper: A model of urban scaling laws based on distance- dependent interactions
+
+`2016`
+2016 Conference on Complex Systems<br>
+accepted poster: Scalng Laws in Brazilian Cities
+
+`2015`
+2015 International Conference on Location-based Social Media<br>
+accepted paper: Digital footprints in the city - Segregation in networks
+
+`2015`
+19th International Conference on Circuits, Systems, Communications and Computers<br>
+accepted paper: Using Buses GPS data to measure changes in the quality of public transportation
+
+`2014`
+5th World Congress on Social Simulation<br>
+accepted paper: London Riots with ABM+GIS
+
+`2014`
+XIX National Encounter on Demographic Studies<br>
+accepted paper: Urban Mobility in Rio de Janeiro
+
+`2014`
+3rd Journey on Urban Modeling and Morphology<br>
+invited talk: Big Data and Cities
+
+`2014`
+2nd Journey on Urban Modeling and Morphology<br> 
+accepted paper: Patterns of Urban Environmental Impacts
+
+`2012`
+5th Urbenviron International Seminar<br>
+accepted paper: Application of Life Cycle Assessment in the evaluation of the environmental impact of cities
 
 
 ## Occupation
