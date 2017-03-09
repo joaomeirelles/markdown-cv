@@ -7,7 +7,9 @@ Environmental engineer, Data Scientist
 
 <div id="webaddress">
 <a href="mailto:joao.meirelles@epfl.ch">joao.meirelles@epfl.ch</a>
-| <a href="http://joaomeirelles.github.io">webpage</a>
+<a href="http://joaomeirelles.github.io">webpage</a>
+<a href="https://twitter.com/joaovmeirelles">twitter</a>
+
 </div>
 
 ## About
@@ -16,7 +18,8 @@ Rio de Janeiro, Brazil
 
 ## Currently
 
-PhD student at <a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a> on Dynamics of the Urban Metabolism. Also part of <a href="#" onclick="window.open('https://www.facebook.com/databaseriodejaneiro/')">DATABASE / Rio de Janero</a> and of <a href="#" onclick="window.open('http://metabolismofcities.org/')">Metabolism of Cities</a>.
+PhD student at <a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a> on Dynamics of the Urban Metabolism.<br> 
+Also part of <a href="#" onclick="window.open('https://www.facebook.com/databaseriodejaneiro/')">DATABASE / Rio de Janero</a> and of <a href="#" onclick="window.open('http://metabolismofcities.org/')">Metabolism of Cities</a>.
 
 <!---
 ### Specialized in
@@ -32,7 +35,7 @@ science of cities, data analysis, complex systems, mathematical modeling, urban 
 ## Education
 
 `2008-2012`
-__UFF | Federal Fluminense Univesiry, BR__
+__UFF | Fluminense Federal University, BR__
 - Bsc in Environmental and Water Resources Engineering
 
 `2013 - 2015`
@@ -66,7 +69,9 @@ Ribeiro FL, Meirelles J,Ferreira FF, Neto CR. 2017 A model of urban scaling laws
 ### Book Chapters
 
 `2016`
-Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. The Social Fabric of Cities. 1ed.: Routledge, 2016, v. , p. 37-59.
+Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669">The Social Fabric of Cities</a>. 1ed.: Routledge, 2016, v. , p. 37-59.
+
+
 
 <!--
 `2012`
@@ -93,6 +98,12 @@ __UN-Habitat / ROLAC__, BR
 `2010 - 2011`
 __Aqua Modelo__, BR
 - Intern - hydrological studies and hydrodynamic modelling
+
+`2009 - 2010`
+__Sea Projects__, BR
+- Intern - environmental monitoring
+
+
 
 ## Complementary Formation
 
@@ -153,7 +164,7 @@ __USP | São Paulo Univerity, BR__
 - Teacher Assistant on Digital Image Processing and GIS
 
 `2010`
-__UFF | Federal Fluminense Univesiry, BR__
+__UFF | Fluminense Federal University, BR__
 - Teacher Assistant on Public and Environmental Health
 
 
