@@ -119,6 +119,10 @@ accepted paper: Application of Life Cycle Assessment in the evaluation of the en
 
 ## Occupation
 
+`2016-now`
+__EPFL | École Polytechnique Fédérale de Lausanne__, CH
+- Research Assistent
+
 `2014-2016`
 __PENSA - Big Data Team of Rio de Janeiro City Hall__, BR
 - Data Scientist
