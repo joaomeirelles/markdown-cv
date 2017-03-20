@@ -9,6 +9,7 @@ Environmental engineer, Data Scientist
 <a href="mailto:joao.meirelles@epfl.ch">joao.meirelles@epfl.ch</a>
 <a href="http://joaomeirelles.github.io">webpage</a>
 <a href="#" onclick="https://twitter.com/joaovmeirelles">twitter</a>
+<a href="#" onclick="https://github.com/joaomeirelles">github</a>
 
 </div>
 
