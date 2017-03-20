@@ -40,7 +40,8 @@ __UFF | Fluminense Federal University, BR__
 
 `2013 - 2015`
 __USP | São Paulo Univerity, BR__
-- MSc in Complex Systems Modeling
+- MSc in Complex Systems Modeling / <a href="#" onclick="window.open('http://www.teses.usp.br/teses/disponiveis/100/100132/tde-21012016-134950/pt-br.php')">Scalaing Laws in Cities</a>
+
 
 `2016 - now`
 __EPFL | École Polytechnique Fédérale de Lausanne, CH__
