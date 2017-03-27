@@ -38,18 +38,21 @@ science of cities, data analysis, complex systems, mathematical modeling, urban 
 
 ## Education
 
-`2008-2012`
-__UFF | Fluminense Federal University, BR__
-- BSc in Environmental and Water Resources Engineering
-
-`2013 - 2015`
-__USP | São Paulo Univerity, BR__
-- MSc in Complex Systems Modeling / <a href="#" onclick="window.open('http://www.teses.usp.br/teses/disponiveis/100/100132/tde-21012016-134950/pt-br.php')">Scalaing Laws in Cities</a>
 
 
 `2016 - now`
 __EPFL | École Polytechnique Fédérale de Lausanne, CH__
 - PhD in Environmental Sciences and Engineering
+
+`2013 - 2015`
+__USP | São Paulo Univerity, BR__
+- MSc in Complex Systems Modeling / <a href="#" onclick="window.open('http://www.teses.usp.br/teses/disponiveis/100/100132/tde-21012016-134950/pt-br.php')">Scalaing Laws in Cities</a>
+
+`2008-2012`
+__UFF | Fluminense Federal University, BR__
+- BSc in Environmental and Water Resources Engineering
+
+
 
 
 <!---
