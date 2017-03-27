@@ -125,7 +125,7 @@ accepted paper: Patterns of Urban Environmental Impacts
 accepted paper: Application of Life Cycle Assessment in the evaluation of the environmental impact of cities
 
 
-## Occupation
+## Work experience
 
 `2016-now`
 __EPFL | École Polytechnique Fédérale de Lausanne__, CH
