@@ -68,8 +68,6 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-<a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a>
-
 `2017`
 Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
 
