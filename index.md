@@ -10,9 +10,9 @@ Environmental engineer, Data Scientist
 ｜
 <a href="http://joaomeirelles.github.io">webpage</a>
 ｜
-<a href="#" onclick="https://twitter.com/joaovmeirelles">twitter</a>
+<a href="#" onclick="window.open('https://twitter.com/joaovmeirelles')">twitter</a>
 ｜
-<a href="#" onclick="https://github.com/joaomeirelles">github</a>
+<a href="#" onclick="window.open('https://github.com/joaomeirelles')">github</a>
 
 </div>
 
@@ -68,13 +68,15 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
+<a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a>
+
 `2017`
-Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="http://rsos.royalsocietypublishing.org/content/4/3/160926">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
+Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
 
 ### Book Chapters
 
 `2016`
-Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="#" onclick="https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669">The Social Fabric of Cities</a>. 1ed.: Routledge. p. 37-59. 2016
+Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="#" onclick="window.open('https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669')">The Social Fabric of Cities</a>. 1ed.: Routledge. p. 37-59. 2016
 
 
 
