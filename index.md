@@ -69,12 +69,12 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `2017`
-Ribeiro FL, Meirelles J,Ferreira FF, Neto CR. 2017 A model of urban scaling laws based on distance- dependent interactions.R. Soc. open sci. 4: 160926. http://dx.doi.org/10.1098/rsos.160926 
+Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="http://rsos.royalsocietypublishing.org/content/4/3/160926">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
 
 ### Book Chapters
 
 `2016`
-Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="#" onclick="https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669">The Social Fabric of Cities</a>. 1ed.: Routledge, 2016, v. , p. 37-59.
+Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="#" onclick="https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669">The Social Fabric of Cities</a>. 1ed.: Routledge. p. 37-59. 2016
 
 
 
