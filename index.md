@@ -74,6 +74,10 @@ Associate, *French Academy of Science*, Paris, France
 `2017`
 Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
 
+`2017`
+Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. Social Entropy and the City. Submited. <a href="#" onclick="window.open('https://osf.io/preprints/socarxiv/kdfkt')">Pre-print available here</a>
+
+
 ### Book Chapters
 
 `2016`
@@ -86,7 +90,20 @@ Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . 
 Freire, :. E. H. B. ; Bienenstein, R. ; Pereira Junior, N. D. ; Meirelles, J. V . Qualidade de Vida e Respeito ao Meio Ambiente - ODM7: Garantir a Sustentabilidade Ambiental.. In: Grimard A., Roldan O., Amaral D., Meirelles J.. (Org.). Monitoramento de Indicadores Socioeconômicos nos Municípios do Entorno do Complexo Petroquímico do Estado do Rio de Janeiro. 1ed.Niterói - RJ: EDUFF, 2012, v. , p. 1-.
 -->
 
-### Posters and Congress Presentaitons
+### Posters and Conference Presentaitons
+
+`2017`
+Conference on Future Buildings and Districts<br>
+accepted paper:Comparing energy use drivers of 10 cities through microscale correlations.
+
+`2017`
+International Symposium on Sustainable Systems and Technology<br>
+accepted presentation: The creation of a Global Urban Metabolism Database
+
+`2017`
+International Symposium on Sustainable Systems and Technology<br>
+accepted poster: Scaling Laws in Water and Waste Metabolism of Brazilian Cities
+
 
 `2016`
 2016 Conference on Complex Systems<br>
