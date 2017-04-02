@@ -75,7 +75,7 @@ Associate, *French Academy of Science*, Paris, France
 Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
 
 `2017`
-Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. Social Entropy and the City. Submited. <a href="#" onclick="window.open('https://osf.io/preprints/socarxiv/kdfkt')">Pre-print available here</a>
+Netto, V. M.; Meirelles J; Ribeiro FL. Social Entropy and the City. Submited. <a href="#" onclick="window.open('https://osf.io/preprints/socarxiv/kdfkt')">Pre-print available here</a>
 
 
 ### Book Chapters
