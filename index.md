@@ -88,7 +88,7 @@ Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . 
 Freire, :. E. H. B. ; Bienenstein, R. ; Pereira Junior, N. D. ; Meirelles, J. V . Qualidade de Vida e Respeito ao Meio Ambiente - ODM7: Garantir a Sustentabilidade Ambiental.. In: Grimard A., Roldan O., Amaral D., Meirelles J.. (Org.). Monitoramento de Indicadores Socioeconômicos nos Municípios do Entorno do Complexo Petroquímico do Estado do Rio de Janeiro. 1ed.Niterói - RJ: EDUFF, 2012, v. , p. 1-.
 -->
 
-### Posters and Conference Presentaitons
+### Conferences
 
 `2017`
 Conference on Future Buildings and Districts<br>
