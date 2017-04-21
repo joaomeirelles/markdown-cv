@@ -45,7 +45,7 @@ science of cities, data analysis, complex systems, mathematical modeling, urban 
 
 
 `2016 - now`
-__EPFL | Swiss Federal Institute of Technology Lausanne, EPFL, CH__
+__EPFL | Swiss Federal Institute of Technology Lausanne, CH__
 - PhD in Environmental Sciences and Engineering
 
 `2013 - 2015`
