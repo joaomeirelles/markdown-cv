@@ -46,11 +46,11 @@ __EPFL | École Polytechnique Fédérale de Lausanne, CH__
 
 `2013 - 2015`
 __USP | São Paulo Univerity, BR__
-- MSc in Complex Systems Modeling / <a href="#" onclick="window.open('http://www.teses.usp.br/teses/disponiveis/100/100132/tde-21012016-134950/pt-br.php')">Scalaing Laws in Cities</a>
+- MSc in Complex Systems Modeling / <a href="#" onclick="window.open('http://www.teses.usp.br/teses/disponiveis/100/100132/tde-21012016-134950/pt-br.php')">Scalaing Laws in Cities [PT]</a>
 
 `2008-2012`
 __UFF | Fluminense Federal University, BR__
-- BSc in Environmental and Water Resources Engineering / <a href="#" onclick="window.open('http://www.tgh.uff.br/images/stories/JoaoMeirelles_PF2.pdf')">Pattern Recognition of Urban Environmental Impact through data mining</a>
+- BSc in Environmental and Water Resources Engineering / <a href="#" onclick="window.open('http://www.tgh.uff.br/images/stories/JoaoMeirelles_PF2.pdf')">Pattern Recognition of Urban Environmental Impact through data mining [PT]</a>
 
 
 <!---
