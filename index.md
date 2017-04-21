@@ -146,11 +146,11 @@ invited talk: Big Data and Cities
 
 `2014`
 2nd Journey on Urban Modeling and Morphology<br> 
-accepted paper: Patterns of Urban Environmental Impacts
+paper: Patterns of Urban Environmental Impacts
 
 `2012`
 5th Urbenviron International Seminar<br>
-accepted paper: Application of Life Cycle Assessment in the evaluation of the environmental impact of cities
+paper: Application of Life Cycle Assessment in the evaluation of the environmental impact of cities
 
 
 ## Work experience
