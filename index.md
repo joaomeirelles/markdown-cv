@@ -7,14 +7,16 @@ Environmental Engineer, Data Scientist
 
 <div id="webaddress">
 <a href="mailto:joao.meirelles@epfl.ch">joao.meirelles@epfl.ch</a>
+<!---
 ｜
 <a href="http://joaomeirelles.github.io">webpage</a>
-｜
-<a href="#" onclick="window.open('https://twitter.com/joaovmeirelles')">twitter</a>
+-->
 ｜
 <a href="#" onclick="window.open('https://github.com/joaomeirelles')">github</a>
 ｜
 <a href="#" onclick="window.open('https://scholar.google.com/citations?hl=pt-BR&user=KoXxV4sAAAAJ&view_op=list_works')">google citations</a>
+｜
+<a href="#" onclick="window.open('https://twitter.com/joaovmeirelles')">twitter</a>
 
 
 
