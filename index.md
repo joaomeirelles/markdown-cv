@@ -82,6 +82,19 @@ Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="window.open
 Netto, V. M.; Meirelles J; Ribeiro FL. Social Entropy and the City. Submited. <a href="#" onclick="window.open('https://osf.io/preprints/socarxiv/kdfkt')">Pre-print available here</a>
 
 
+### Conference Proceedings
+
+<!--
+`2017`
+Conference on Future Buildings and Districts<br>
+accepted paper:Comparing energy use drivers of 10 cities through microscale correlations.
+-->
+
+`2015`
+Netto VM, Pinheiro M, Meirelles JV, Leite H. <a href="#" onclick="window.open('https://www.researchgate.net/profile/Vinicius_Netto/publication/272408306_Digital_footprints_in_the_cityscape_Finding_networks_of_segregation_through_Big_Data/links/54e362600cf2748d3a9d61f4.pdf')">Digital footprints in the cityscape</a>. International Conference on Social Networks, Athens, USA 2015. 
+
+
+
 ### Book Chapters
 
 `2016`
@@ -94,44 +107,38 @@ Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . 
 Freire, :. E. H. B. ; Bienenstein, R. ; Pereira Junior, N. D. ; Meirelles, J. V . Qualidade de Vida e Respeito ao Meio Ambiente - ODM7: Garantir a Sustentabilidade Ambiental.. In: Grimard A., Roldan O., Amaral D., Meirelles J.. (Org.). Monitoramento de Indicadores Socioeconômicos nos Municípios do Entorno do Complexo Petroquímico do Estado do Rio de Janeiro. 1ed.Niterói - RJ: EDUFF, 2012, v. , p. 1-.
 -->
 
-### Conferences
-
-`2017`
-Conference on Future Buildings and Districts<br>
-accepted paper:Comparing energy use drivers of 10 cities through microscale correlations.
+### Conference Presentations and Posters
 
 `2017`
 International Symposium on Sustainable Systems and Technology<br>
-accepted presentation: The creation of a Global Urban Metabolism Database
+presentation: The creation of a Global Urban Metabolism Database
 
 `2017`
 International Symposium on Sustainable Systems and Technology<br>
-accepted poster: Scaling Laws in Water and Waste Metabolism of Brazilian Cities
-
-
-`2016`
-2016 Conference on Complex Systems<br>
-accepted paper: A model of urban scaling laws based on distance- dependent interactions
+poster: Scaling Laws in Water and Waste Metabolism of Brazilian Cities
 
 `2016`
 2016 Conference on Complex Systems<br>
-accepted poster: Scalng Laws in Brazilian Cities
+presentation: A model of urban scaling laws based on distance- dependent interactions
 
-`2015`
-2015 International Conference on Location-based Social Media<br>
-accepted paper: Digital footprints in the city - Segregation in networks
+`2016`
+2016 Conference on Complex Systems<br>
+poster: Scalng Laws in Brazilian Cities
 
 `2015`
 19th International Conference on Circuits, Systems, Communications and Computers<br>
-accepted paper: Using Buses GPS data to measure changes in the quality of public transportation
+presentation: <a href="#" onclick="window.open('https://www.academia.edu/12183346/Using_Buses_GPS_data_to_measure_changes_in_the_quality_of_public_transportation')">Using Buses GPS data to measure changes in the quality of public transportation</a>
+
 
 `2014`
 5th World Congress on Social Simulation<br>
-accepted paper: London Riots with ABM+GIS
+poster: <a href="#" onclick="window.open('https://www.academia.edu/12183360/Modeling_London_Riots_Using_ABM_and_GIS')">London Riots with ABM+GIS</a>
+
 
 `2014`
 XIX National Encounter on Demographic Studies<br>
-accepted paper: Urban Mobility in Rio de Janeiro
+accepted paper: <a href="#" onclick="window.open('
+http://s3.amazonaws.com/academia.edu.documents/36693715/ModelodedesempenhoparaosistemademobilidadeurbananacidadedoRiodeJaneiro_ArtigoCompleto_Obs-Joao.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1492775458&Signature=s8J755A5VHhfl%2Bz13SaUTqaC618%3D&response-content-disposition=inline%3B%20filename%3DMobilidade_urbana_e_sustentabilidade_ele.pdf')">Mobilidade urbana e sustentabilidade: elementos para a construção de um modelo de desempenho para o sistema de mobilidade urbana na cidade do Rio de Janeiro</a>
 
 `2014`
 3rd Journey on Urban Modeling and Morphology<br>
