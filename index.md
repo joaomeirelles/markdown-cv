@@ -50,9 +50,7 @@ __USP | São Paulo Univerity, BR__
 
 `2008-2012`
 __UFF | Fluminense Federal University, BR__
-- BSc in Environmental and Water Resources Engineering
-
-
+- BSc in Environmental and Water Resources Engineering / <a href="#" onclick="window.open('http://www.tgh.uff.br/images/stories/JoaoMeirelles_PF2.pdf')">Pattern Recognition of Urban Environmental Impact through data mining</a>
 
 
 <!---
@@ -69,7 +67,7 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Peer-reviewd Publications
 
 `2017`
 Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
@@ -240,8 +238,8 @@ Spanish fluent<br>
 French basic
 
 ## Programming
-Python<br>
 R<br>
+Python<br>
 SQL<br>
 GIS<br>
 processing<br>
