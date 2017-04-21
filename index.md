@@ -3,7 +3,7 @@ layout: cv
 title: Joao Meirelles's CV
 ---
 # Joao Meirelles
-Environmental engineer, Data Scientist
+Environmental Engineer, Data Scientist
 
 <div id="webaddress">
 <a href="mailto:joao.meirelles@epfl.ch">joao.meirelles@epfl.ch</a>
