@@ -13,6 +13,10 @@ Environmental Engineer, Data Scientist
 <a href="#" onclick="window.open('https://twitter.com/joaovmeirelles')">twitter</a>
 ｜
 <a href="#" onclick="window.open('https://github.com/joaomeirelles')">github</a>
+｜
+<a href="#" onclick="window.open('https://scholar.google.com/citations?hl=pt-BR&user=KoXxV4sAAAAJ&view_op=list_works')">google citations</a>
+
+
 
 </div>
 
