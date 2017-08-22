@@ -183,6 +183,9 @@ __Sea Projects__, BR
 
 ## Complementary Formation
 
+`2017`
+__Lipari School on Computational Complex and Social Systems__, IT
+- Cities of citizens : biosensors, social modeling and participatory computing
 
 `2016`
 __ETH Zurich__, CH
