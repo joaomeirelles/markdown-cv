@@ -268,5 +268,5 @@ linux
 
 ### notes
 
-Last updated: Mar 2017
+Last updated: Aug 2017
 
