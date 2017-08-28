@@ -76,16 +76,16 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `2017`
-Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. .<a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
+Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. <a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
 
 `2017`
-Netto, V. M.; Meirelles J; Ribeiro FL. .<a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503
+Netto, V. M.; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503
 
 
 ### Conference Proceedings
 
 `2017`
-Netto, V. M.; Meirelles J; Ribeiro FL. .<a href="#" onclick="window.open('http://www.11ssslisbon.pt/docs/4-space-and-society-sustentability.pdf')">The Fabric of Encounter: Integration and segregation in the spatiotemporal structure of social networks</a>. Proceedings of the 11th International Space Syntax Symposium 
+Netto, V. M.; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('http://www.11ssslisbon.pt/docs/4-space-and-society-sustentability.pdf')">The Fabric of Encounter: Integration and segregation in the spatiotemporal structure of social networks</a>. Proceedings of the 11th International Space Syntax Symposium 
 
 <!--
 `2017`
