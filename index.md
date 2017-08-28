@@ -184,6 +184,34 @@ __Sea Projects__, BR
 
 
 
+
+## Teacher Assisting and Tutoring
+
+`2017 - now`
+__EPFL | École Polytechnique Fédérale de Lausanne, CH__
+- Teacher Assistant on Maths and Physics Preparations Course
+
+`2017 - now`
+__EPFL | École Polytechnique Fédérale de Lausanne, CH__
+- Teacher Assistant on Sustainability Assessment of Urban Systems
+
+`2016 - now`
+__EPFL | École Polytechnique Fédérale de Lausanne, CH__
+- Teacher Assistant on Material and Energy FLow Analysis
+
+`2015`
+__UNIRIO | Rio de Janeiro University, BR__
+- Advisor of Bsc Final Project in Environmental Sciences
+
+`2014`
+__USP | São Paulo Univerity, BR__
+- Teacher Assistant on Digital Image Processing and GIS
+
+`2010`
+__UFF | Fluminense Federal University, BR__
+- Teacher Assistant on Public and Environmental Health
+
+
 ## Complementary Formation
 
 `2017`
@@ -222,32 +250,6 @@ __UN-Habitat__, BR
 __Universidad Autonoma de Madrid__, ES
 - Urban Ecology
 
-
-## Teacher Assisting and Tutoring
-
-`2017 - now`
-__EPFL | École Polytechnique Fédérale de Lausanne, CH__
-- Teacher Assistant on Maths and Physics Preparations Course
-
-`2017 - now`
-__EPFL | École Polytechnique Fédérale de Lausanne, CH__
-- Teacher Assistant on Sustainability Assessment of Urban Systems
-
-`2016 - now`
-__EPFL | École Polytechnique Fédérale de Lausanne, CH__
-- Teacher Assistant on Material and Energy FLow Analysis
-
-`2015`
-__UNIRIO | Rio de Janeiro University, BR__
-- Advisor of Bsc Final Project 
-
-`2014`
-__USP | São Paulo Univerity, BR__
-- Teacher Assistant on Digital Image Processing and GIS
-
-`2010`
-__UFF | Fluminense Federal University, BR__
-- Teacher Assistant on Public and Environmental Health
 
 
 ## Languages
