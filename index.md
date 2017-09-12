@@ -85,6 +85,9 @@ Netto, V. M.; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https:/
 ### Conference Proceedings
 
 `2017`
+Athanassiadisa, A; Fernandez G; Meirelles J; Meinherz F; Hoekmand P; Caria Y B. <a href="#" onclick="window.open('http://www.sciencedirect.com/science/article/pii/S1876610217329788')">Exploring the energy use drivers of 10 cities at microscale level</a>. Energy Procedia (2017)  pp. 709-714. 10.1016/j.egypro.2017.07.374
+
+`2017`
 Netto, V. M.; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('http://www.11ssslisbon.pt/docs/4-space-and-society-sustentability.pdf')">The Fabric of Encounter: Integration and segregation in the spatiotemporal structure of social networks</a>. Proceedings of the 11th International Space Syntax Symposium 
 
 <!--
