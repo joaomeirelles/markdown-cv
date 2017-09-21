@@ -275,5 +275,5 @@ linux
 
 ### notes
 
-Last updated: Aug 2017
+Last updated: Sept 2017
 
