@@ -164,7 +164,7 @@ paper: Application of Life Cycle Assessment in the evaluation of the environment
 ## Work experience
 
 `2016-now`
-__EPFL | École Polytechnique Fédérale de Lausanne__, CH
+__EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Research Assistent
 
 `2014-2016`
@@ -193,17 +193,17 @@ __Sea Projects__, BR
 ## Teacher Assisting and Tutoring
 
 `2017 - now`
-__EPFL | École Polytechnique Fédérale de Lausanne, CH__
+__EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Maths and Physics Preparations Course
 
 <!--
 `2017 - now`
-__EPFL | École Polytechnique Fédérale de Lausanne, CH__
+__EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Sustainability Assessment of Urban Systems
 -->
 
 `2016 - now`
-__EPFL | École Polytechnique Fédérale de Lausanne, CH__
+__EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Material and Energy FLow Analysis
 
 `2015`
