@@ -270,8 +270,8 @@ R<br>
 Python<br>
 SQL<br>
 GIS<br>
-processing<br>
-linux
+linux<br>
+processing
 
 ### notes
 
