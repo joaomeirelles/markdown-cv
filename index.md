@@ -196,9 +196,11 @@ __Sea Projects__, BR
 __EPFL | École Polytechnique Fédérale de Lausanne, CH__
 - Teacher Assistant on Maths and Physics Preparations Course
 
+<!--
 `2017 - now`
 __EPFL | École Polytechnique Fédérale de Lausanne, CH__
 - Teacher Assistant on Sustainability Assessment of Urban Systems
+-->
 
 `2016 - now`
 __EPFL | École Polytechnique Fédérale de Lausanne, CH__
