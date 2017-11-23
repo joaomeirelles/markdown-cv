@@ -157,7 +157,7 @@ paper: Application of Life Cycle Assessment in the evaluation of the environment
 
 `2017`
 World Resources Forum 2017 Best Scientific Paper Award - Sustainable Construction and Smart Cities<br> 
-The creation of a Global Urban Metabolism Database
+The Global Urban Metabolism Database
 
 
 
