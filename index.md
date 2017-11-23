@@ -48,7 +48,7 @@ science of cities, data analysis, complex systems, mathematical modeling, urban 
 
 `2016 - now`
 __EPFL | Swiss Federal Institute of Technology Lausanne, CH__
-- PhD in Environmental Sciences and Engineering
+- PhD in Environmental Sciences and Engineering / <a href="#" onclick="window.open('https://herus.epfl.ch/files/content/sites/herus/files/PhD%20Projects/PhD%20Project%20Joao%20Meirelles.pdf')"> Dynamics of the Urban Metabolism [One Pager]</a>
 
 `2013 - 2015`
 __USP | São Paulo Univerity, BR__
@@ -59,14 +59,6 @@ __UFF | Fluminense Federal University, BR__
 - BSc in Environmental and Water Resources Engineering / <a href="#" onclick="window.open('http://www.tgh.uff.br/images/stories/JoaoMeirelles_PF2.pdf')">Pattern Recognition of Urban Environmental Impact through data mining [PT]</a>
 
 
-<!---
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
--->
 
 
 ## Publications
@@ -159,6 +151,14 @@ paper: Patterns of Urban Environmental Impacts
 `2012`
 5th Urbenviron International Seminar<br>
 paper: Application of Life Cycle Assessment in the evaluation of the environmental impact of cities
+
+
+## Awards
+
+`2017`
+World Resources Forum 2017
+Best Scientific Paper Award - Sustainable Construction and Smart Cities
+
 
 
 ## Work experience
