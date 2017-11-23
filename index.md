@@ -211,7 +211,7 @@ __UNIRIO | Rio de Janeiro University, BR__
 - Advisor of Bsc Final Project in Environmental Sciences
 
 `2014`
-__USP | São Paulo Univerity, BR__
+__USP | São Paulo Univerithttps://joaomeirelles.github.io/markdown-cv/#y, BR__
 - Teacher Assistant on Digital Image Processing and GIS
 
 `2010`
@@ -273,7 +273,6 @@ GIS<br>
 linux<br>
 processing<br>
 
-<br>
 <br>
 <br>
 <br>
