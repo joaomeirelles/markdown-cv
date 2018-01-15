@@ -67,6 +67,12 @@ __UFF | Fluminense Federal University, BR__
 
 ### Journals
 
+`2018`
+Athanassiadisa, A; Fernandez G; Meirelles J; Meinherz F; Hoekmand P; Caria Y B. Are urban energy use drivers scale-dependent? Comparing direct energy use drivers in cities at the macro- micro-level. in preparation
+
+`2018`
+Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evolution of urban scaling: evidence from Brazil. submitted. 
+
 `2017`
 Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503
 
@@ -77,6 +83,9 @@ Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. <a href="#" onclick="window.open(
 
 
 ### Conference Proceedings
+
+`2018`
+Wills, W; Meirelles J; Cerdeira P. Evaluation of Greenhouse Gas Emissions of Municipal Buses in The City of Rio De Janeiro: The Use of Big Data for the Transport Sector Public Policy Formulation. 1st SDEWES LA Conference
 
 `2017`
 Athanassiadisa, A; Fernandez G; Meirelles J; Meinherz F; Hoekmand P; Caria Y B. <a href="#" onclick="window.open('http://www.sciencedirect.com/science/article/pii/S1876610217329788')">Exploring the energy use drivers of 10 cities at microscale level</a>. Energy Procedia, vol. 122, pp. 709-714. 10.1016/j.egypro.2017.07.374
