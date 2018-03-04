@@ -68,10 +68,11 @@ __UFF | Fluminense Federal University, BR__
 ### Journals
 
 `2018`
-Athanassiadisa, A; Fernandez G; Meirelles J; Meinherz F; Hoekmand P; Caria Y B. Are urban energy use drivers scale-dependent? Comparing direct energy use drivers in cities at the macro- micro-level. in preparation
+Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evolution of urban scaling: evidence from Brazil. submitted. 
 
 `2018`
-Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evolution of urban scaling: evidence from Brazil. submitted. 
+Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985
+
 
 `2017`
 Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503
