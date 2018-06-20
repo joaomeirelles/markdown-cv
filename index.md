@@ -75,9 +75,6 @@ Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evoluti
 Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985
 
 `2018`
-Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985
-
-`2018`
 Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://periodicos.pucpr.br/index.php/Urbe/article/view/20717')">Cidade e interação: o papel do espaço urbano na organização social</a>. Revista Brasileira de Gestão Urbana, 10(2), 2018
 
 `2017`
