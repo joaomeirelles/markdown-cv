@@ -68,11 +68,20 @@ __UFF | Fluminense Federal University, BR__
 ### Journals
 
 `2018`
-Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evolution of urban scaling: evidence from Brazil. submitted. 
+Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evolution of urban scaling: evidence from Brazil. submitted.
+
 
 `2018`
 Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985
 
+`2018`
+Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985
+
+`2018`
+Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://periodicos.pucpr.br/index.php/Urbe/article/view/20717')">Cidade e interação: o papel do espaço urbano na organização social</a>. Revista Brasileira de Gestão Urbana, 10(2), 2018
+
+`2017`
+Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">Uma geografia temporal do encontro</a> Revista de Morfologia Urbana, 5(2), 85-101, 2017
 
 `2017`
 Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503
@@ -202,7 +211,7 @@ __Sea Projects__, BR
 
 ## Teacher Assisting and Tutoring
 
-`2017 - now`
+`2017`
 __EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Maths and Physics Preparations Course
 
