@@ -29,7 +29,7 @@ Rio de Janeiro, Brazil
 ## Currently
 
 PhD student at <a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a> on Dynamics of the Urban Metabolism.<br> 
-Also part of <a href="#" onclick="window.open('https://www.facebook.com/databaseriodejaneiro/')">DATABASE / Rio de Janero</a> and of <a href="#" onclick="window.open('http://metabolismofcities.org/')">Metabolism of Cities</a>.
+Also part of <a href="#" onclick="window.open('http://metabolismofcities.org/')">Metabolism of Cities</a>, <a href="#" onclick="window.open('https://ofora.org/')">O Fora> and of <a href="#" onclick="window.open('http://hardcoredistancelearning.com/')">Online Doctorate>o.
 
 <!---
 ### Specialized in
@@ -72,16 +72,18 @@ Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evoluti
 
 
 `2018`
-Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985
+Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985 [<a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">PT version</a>]
 
+<!--
 `2018`
 Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://periodicos.pucpr.br/index.php/Urbe/article/view/20717')">Cidade e interação: o papel do espaço urbano na organização social</a>. Revista Brasileira de Gestão Urbana, 10(2), 2018
-
+-->
+<!--
 `2017`
 Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">Uma geografia temporal do encontro</a> Revista de Morfologia Urbana, 5(2), 85-101, 2017
-
+-->
 `2017`
-Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503
+Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503 [<a href="#" onclick="window.open('https://periodicos.pucpr.br/index.php/Urbe/article/view/20717')">PT version</a>]
 
 `2017`
 Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. <a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
