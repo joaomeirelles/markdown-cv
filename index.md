@@ -48,7 +48,7 @@ science of cities, data analysis, complex systems, mathematical modeling, urban 
 
 `2016 - now`
 __EPFL | Swiss Federal Institute of Technology Lausanne, CH__
-- PhD in Environmental Sciences and Engineering / <a href="#" onclick="window.open('https://herus.epfl.ch/files/content/sites/herus/files/PhD%20Projects/PhD%20Project%20Joao%20Meirelles.pdf')"> Dynamics of the Urban Metabolism [One Pager]</a>
+- PhD in Environmental Sciences and Engineering / <a href="#" onclick="window.open('https://herus.epfl.ch/wp-content/uploads/2018/08/PhD-Project-Joao-Meirelles.pdf')"> Dynamics of the Urban Metabolism [One Page Proposal]</a>
 
 `2013 - 2015`
 __USP | São Paulo Univerity, BR__
