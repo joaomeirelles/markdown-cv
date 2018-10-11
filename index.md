@@ -68,7 +68,11 @@ __UFF | Fluminense Federal University, BR__
 ### Journals
 
 `2018`
-Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR. Evolution of urban scaling: evidence from Brazil. submitted.
+Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. <a href="#" onclick="window.open('https://www.preprints.org/manuscript/201808.0426/v2')"> Cities, from Information to Interaction</a>. Preprints 2018, 2018080426 (doi: 10.20944/preprints201808.0426.v2).
+
+
+`2018`
+Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR.  <a href="#" onclick="window.open('https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204574')">Evolution of urban scaling: evidence from Brazil</a>. PLoS ONE 13(10): e0204574. https://doi.org/10.1371/journal.pone.0204574
 
 
 `2018`
@@ -295,5 +299,5 @@ processing<br>
 <br>
 <br>
 
-Last updated: Nov 2017
+Last updated: Oct 2018
 
