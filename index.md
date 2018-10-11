@@ -76,7 +76,7 @@ Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR.  <a hre
 
 
 `2018`
-Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985 [<a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">PT version</a>]
+Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>. Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985 [<a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">PT version</a>]
 
 <!--
 `2018`
