@@ -68,7 +68,7 @@ __UFF | Fluminense Federal University, BR__
 ### Journals
 
 `2018`
-Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. <a href="#" onclick="window.open('https://www.preprints.org/manuscript/201808.0426/v2')"> Cities, from Information to Interaction</a>. Preprints 2018, 2018080426 (doi: 10.20944/preprints201808.0426.v2).
+Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. <a href="#" onclick="window.open('https://www.mdpi.com/1099-4300/20/11/834')"> Cities, from Information to Interaction</a>. Entropy 2018, 20(11), 834; https://doi.org/10.3390/e20110834
 
 
 `2018`
