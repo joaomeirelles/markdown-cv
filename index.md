@@ -29,7 +29,7 @@ Rio de Janeiro, Brazil
 ## Currently
 
 PhD student at <a href="#" onclick="window.open('http://herus.epfl.ch/')">HERUS / EPFL</a> on Dynamics of the Urban Metabolism.<br> 
-Also part of <a href="#" onclick="window.open('http://metabolismofcities.org/')">Metabolism of Cities</a>, <a href="#" onclick="window.open('https://ofora.org/')">O Fora</a> and of <a href="#" onclick="window.open('http://hardcoredistancelearning.com/')">Online Doctorate</a>.
+Also part of <a href="#" onclick="window.open('http://metabolismofcities.org/')">Metabolism of Cities</a>, <a href="#" onclick="window.open('https://ofora.org/')">O Fora</a> and <a href="#" onclick="window.open('http://hardcoredistancelearning.com/')">Online Doctorate</a>.
 
 <!---
 ### Specialized in
