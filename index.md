@@ -67,6 +67,13 @@ __UFF | Fluminense Federal University, BR__
 
 ### Journals
 
+`2019`
+Pang, M; Meirelles, J; Moreau V; Binder, C. A consumption-based carbon footprint model with household budget surveys: Assessing the impact of urbanization and socioeconomic variables on household greenhouse gas emissions in Switzerland. In preparation
+
+`2019`
+Wills, W; Meirelles J; Cerdeira P. A Sinuosity-based method to estimate GHG Emissions from GPS of Buses 
+. Submitted
+
 `2018`
 Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. <a href="#" onclick="window.open('https://www.mdpi.com/1099-4300/20/11/834')"> Cities, from Information to Interaction</a>. Entropy 2018, 20(11), 834; https://doi.org/10.3390/e20110834
 
