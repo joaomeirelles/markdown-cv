@@ -71,6 +71,12 @@ __UFF | Fluminense Federal University, BR__
 Pang, M; Meirelles, J; Moreau V; Binder, C. A consumption-based carbon footprint model with household budget surveys: Assessing the impact of urbanization and socioeconomic variables on household greenhouse gas emissions in Switzerland. In preparation
 
 `2019`
+Ribeiro, F; Meirelles, J; Arcaute, E; Netto, V; Rodrigues, C; Baronchelli, A. On the relation between Transversal and Longitudinal Scaling in Cities. In preparation
+
+`2019`
+Bettignies, Y.; Meirelles, J.; Fernandez, G.; Meinherz, F.; Hoekman, P.; Bouillard, P.; Athanassiadis, A. The scale-dependent behaviour of cities: a cross-cities multiscale driver analysis of urban energy use. Submitted
+
+`2019`
 Wills, W; Meirelles J; Cerdeira P. A Sinuosity-based method to estimate GHG Emissions from GPS of Buses 
 . Submitted
 
@@ -125,6 +131,12 @@ Netto VM, Pinheiro M, Meirelles JV, Leite H. <a href="#" onclick="window.open('h
 
 
 ### Book Chapters
+
+`2019`
+Meirelles, J.; Pagani, A.; Athanassiadis, A.; Binder, C.R. Sustainability Issues in Urban Systems from a Metabolic Perspective. Sustaiability Assessment of Urbana Systems. In preparation. Cambridge University Press. 
+
+`2019`
+Netto, V.; Meirelles, J.; Ribeiro, F. Cities and Entropy: Assessing Urban Sustainability as a Problem of Coordination of Actions. Sustaiability Assessment of Urbana Systems. In preparation. Cambridge University Press. 
 
 `2016`
 Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="#" onclick="window.open('https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669')">The Social Fabric of Cities</a>. 1ed.: Routledge. p. 37-59. 2016
@@ -277,6 +289,10 @@ __ICTP South American Institute for Fundamental Research__, BR
 `2014`
 __Complex Systems Institute of Valparaiso__, CL
 - XII Summer School on Cities and Complexity
+
+`2012`
+__Rio de Janeiro City Hall__, BR
+- Urban GHG Inventory
 
 `2012`
 __UN-Habitat__, BR
