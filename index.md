@@ -107,28 +107,16 @@ Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. <a href="#" onclick="window.open(
 
 
 
-
-### Conference Proceedings
-
+<!-- ### Conference Proceedings
 `2018`
 Wills, W; Meirelles J; Cerdeira P. Evaluation of Greenhouse Gas Emissions of Municipal Buses in The City of Rio De Janeiro: The Use of Big Data for the Transport Sector Public Policy Formulation. 1st SDEWES LA Conference
-
 `2017`
 Athanassiadisa, A; Fernandez G; Meirelles J; Meinherz F; Hoekmand P; Caria Y B. <a href="#" onclick="window.open('http://www.sciencedirect.com/science/article/pii/S1876610217329788')">Exploring the energy use drivers of 10 cities at microscale level</a>. Energy Procedia, vol. 122, pp. 709-714. 10.1016/j.egypro.2017.07.374
-
 `2017`
 Netto VM, Pinheiro M, Meirelles JV, Leite H. <a href="#" onclick="window.open('http://www.11ssslisbon.pt/docs/4-space-and-society-sustentability.pdf')">The Fabric of Encounter: Integration and segregation in the spatiotemporal structure of social networks</a>. Proceedings of the 11th International Space Syntax Symposium 
-
-<!--
-`2017`
-Conference on Future Buildings and Districts<br>
-accepted paper:Comparing energy use drivers of 10 cities through microscale correlations.
--->
-
 `2015`
 Netto VM, Pinheiro M, Meirelles JV, Leite H. <a href="#" onclick="window.open('https://www.researchgate.net/profile/Vinicius_Netto/publication/272408306_Digital_footprints_in_the_cityscape_Finding_networks_of_segregation_through_Big_Data/links/54e362600cf2748d3a9d61f4.pdf')">Digital footprints in the cityscape</a>. International Conference on Social Networks, Athens, USA 2015. 
-
-
+-->
 
 ### Book Chapters
 
