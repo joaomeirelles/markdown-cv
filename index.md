@@ -46,11 +46,11 @@ science of cities, data analysis, complex systems, mathematical modeling, urban 
 
 
 
-`2016 - now`
+`2016-`
 __EPFL | Swiss Federal Institute of Technology Lausanne, CH__
 - PhD in Environmental Sciences and Engineering / <a href="#" onclick="window.open('https://herus.epfl.ch/wp-content/uploads/2018/08/PhD-Project-Joao-Meirelles.pdf')"> Dynamics of the Urban Metabolism [One Page Proposal]</a>
 
-`2013 - 2015`
+`2013-2015`
 __USP | São Paulo Univerity, BR__
 - MSc in Complex Systems Modeling / <a href="#" onclick="window.open('http://www.teses.usp.br/teses/disponiveis/100/100132/tde-21012016-134950/pt-br.php')">Scalaing Laws in Cities [PT]</a>
 
@@ -158,11 +158,9 @@ poster: Scalng Laws in Brazilian Cities
 19th International Conference on Circuits, Systems, Communications and Computers<br>
 presentation: <a href="#" onclick="window.open('https://www.academia.edu/12183346/Using_Buses_GPS_data_to_measure_changes_in_the_quality_of_public_transportation')">Using Buses GPS data to measure changes in the quality of public transportation</a>
 
-
 `2014`
 5th World Congress on Social Simulation<br>
 poster: <a href="#" onclick="window.open('https://www.academia.edu/12183360/Modeling_London_Riots_Using_ABM_and_GIS')">London Riots with ABM+GIS</a>
-
 
 `2014`
 XIX National Encounter on Demographic Studies<br>
@@ -200,19 +198,19 @@ __EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 __PENSA - Big Data Team of Rio de Janeiro City Hall__, BR
 - Data Scientist
 
-`2012 - 2013`
+`2012-2013`
 __Pereira Passos Urbanism Intitute__, BR
 - Intern - urban data analysis
 
-`2011 - 2012`
+`2011-2012`
 __UN-Habitat / ROLAC__, BR
 - Intern - environmental data analysis
 
-`2010 - 2011`
+`2010-2011`
 __Aqua Modelo__, BR
 - Intern - hydrological studies and hydrodynamic modelling
 
-`2009 - 2010`
+`2009-2010`
 __Sea Projects__, BR
 - Intern - environmental monitoring
 
@@ -221,17 +219,16 @@ __Sea Projects__, BR
 
 ## Teacher Assisting and Tutoring
 
+
+`2017-now`
+__EPFL | Swiss Federal Institute of Technology Lausanne__, CH
+- Teacher Assistant on Sustainability Assessment of Urban Systems
+
 `2017`
 __EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Maths and Physics Preparations Course
 
-<!--
-`2017 - now`
-__EPFL | Swiss Federal Institute of Technology Lausanne__, CH
-- Teacher Assistant on Sustainability Assessment of Urban Systems
--->
-
-`2016 - now`
+`2016-now`
 __EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Material and Energy FLow Analysis
 
