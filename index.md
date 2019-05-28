@@ -118,7 +118,7 @@ Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. <a href="#" onclick="window.open(
 <!-- ### Conference Proceedings
 `2018`
 Wills, W; Meirelles J; Cerdeira P. Evaluation of Greenhouse Gas Emissions of Municipal Buses in The City of Rio De Janeiro: The Use of Big Data for the Transport Sector Public Policy Formulation. 1st SDEWES LA Conference
-`2017`
+2017`
 Athanassiadisa, A; Fernandez G; Meirelles J; Meinherz F; Hoekmand P; Caria Y B. <a href="#" onclick="window.open('http://www.sciencedirect.com/science/article/pii/S1876610217329788')">Exploring the energy use drivers of 10 cities at microscale level</a>. Energy Procedia, vol. 122, pp. 709-714. 10.1016/j.egypro.2017.07.374
 `2017`
 Netto VM, Pinheiro M, Meirelles JV, Leite H. <a href="#" onclick="window.open('http://www.11ssslisbon.pt/docs/4-space-and-society-sustentability.pdf')">The Fabric of Encounter: Integration and segregation in the spatiotemporal structure of social networks</a>. Proceedings of the 11th International Space Syntax Symposium 
@@ -127,13 +127,12 @@ Netto VM, Pinheiro M, Meirelles JV, Leite H. <a href="#" onclick="window.open('h
 -->
 
 ### Book Chapters
-
+<!--
 `2019`
 Meirelles, J.; Pagani, A.; Athanassiadis, A.; Binder, C.R. Sustainability Issues in Urban Systems from a Metabolic Perspective. Sustaiability Assessment of Urbana Systems. In preparation. Cambridge University Press. 
-
 `2019`
 Netto, V.; Meirelles, J.; Ribeiro, F. Cities and Entropy: Assessing Urban Sustainability as a Problem of Coordination of Actions. Sustaiability Assessment of Urbana Systems. In preparation. Cambridge University Press. 
-
+-->
 `2016`
 Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . Segregated Networks in the City. <a href="#" onclick="window.open('https://www.routledge.com/The-Social-Fabric-of-Cities/Netto/p/book/9781472470669')">The Social Fabric of Cities</a>. 1ed.: Routledge. p. 37-59. 2016
 
@@ -144,23 +143,21 @@ Netto, V. M. ; Pinheiro, M. ; Pachoalino, R. ; Meirelles, J. V ; Leite, H. L. . 
 Freire, :. E. H. B. ; Bienenstein, R. ; Pereira Junior, N. D. ; Meirelles, J. V . Qualidade de Vida e Respeito ao Meio Ambiente - ODM7: Garantir a Sustentabilidade Ambiental.. In: Grimard A., Roldan O., Amaral D., Meirelles J.. (Org.). Monitoramento de Indicadores Socioeconômicos nos Municípios do Entorno do Complexo Petroquímico do Estado do Rio de Janeiro. 1ed.Niterói - RJ: EDUFF, 2012, v. , p. 1-.
 -->
 
-### Conference Presentations and Posters
+### Conference Presentations, Papers, and Posters
+
+`2018`
+Wills, W; Meirelles J; Baptista, V; Cerdeira P. Evaluation of Greenhouse Gas Emissions of Municipal Buses in The City of Rio De Janeiro: The Use of Big Data for the Transport Sector Public Policy Formulation. 1st SDEWES LA Conference
 
 `2017`
 International Symposium on Sustainable Systems and Technology<br>
 presentation: The creation of a Global Urban Metabolism Database
 
 `2017`
-International Symposium on Sustainable Systems and Technology<br>
-poster: Scaling Laws in Water and Waste Metabolism of Brazilian Cities
+Athanassiadisa, A; Fernandez G; Meirelles J; Meinherz F; Hoekmand P; Caria Y B. <a href="#" onclick="window.open('http://www.sciencedirect.com/science/article/pii/S1876610217329788')">Exploring the energy use drivers of 10 cities at microscale level</a>. Energy Procedia, vol. 122, pp. 709-714. 10.1016/j.egypro.2017.07.374
 
 `2016`
 2016 Conference on Complex Systems<br>
 presentation: A model of urban scaling laws based on distance- dependent interactions
-
-`2016`
-2016 Conference on Complex Systems<br>
-poster: Scalng Laws in Brazilian Cities
 
 `2015`
 19th International Conference on Circuits, Systems, Communications and Computers<br>
@@ -172,7 +169,7 @@ poster: <a href="#" onclick="window.open('https://www.academia.edu/12183360/Mode
 
 `2014`
 XIX National Encounter on Demographic Studies<br>
-accepted paper: <a href="#" onclick="window.open('
+paper: <a href="#" onclick="window.open('
 http://s3.amazonaws.com/academia.edu.documents/36693715/ModelodedesempenhoparaosistemademobilidadeurbananacidadedoRiodeJaneiro_ArtigoCompleto_Obs-Joao.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1492775458&Signature=s8J755A5VHhfl%2Bz13SaUTqaC618%3D&response-content-disposition=inline%3B%20filename%3DMobilidade_urbana_e_sustentabilidade_ele.pdf')">Mobilidade urbana e sustentabilidade: elementos para a construção de um modelo de desempenho para o sistema de mobilidade urbana na cidade do Rio de Janeiro</a>
 
 `2014`
@@ -227,11 +224,11 @@ __Sea Projects__, BR
 
 ## Teacher Assisting and Tutoring
 
-
+<!--
 `2017-now`
 __EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Sustainability Assessment of Urban Systems
-
+-->
 `2017`
 __EPFL | Swiss Federal Institute of Technology Lausanne__, CH
 - Teacher Assistant on Maths and Physics Preparations Course
@@ -306,13 +303,13 @@ French intermediate
 ## Programming
 R<br>
 Python<br>
-SQL<br>
 GIS<br>
-linux<br>
+SQL<br>
+bash<br>
 
 <br>
 <br>
 <br>
 
-Last updated: Mar 2019
+Last updated: March 2019
 
