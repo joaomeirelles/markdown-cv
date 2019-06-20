@@ -79,14 +79,12 @@ Ribeiro, F; Meirelles, J; Arcaute, E; Netto, V; Rodrigues, C; Baronchelli, A. On
 
 <!--
 `2019`
-Bettignies, Y.; Meirelles, J.; Fernandez, G.; Meinherz, F.; Hoekman, P.; Bouillard, P.; Athanassiadis, A. The scale-dependent behaviour of cities: a cross-cities multiscale driver analysis of urban energy use. Submitted
--->
-
-<!--
-`2019`
 Wills, W; Meirelles J; Cerdeira P. A Sinuosity-based method to estimate GHG Emissions from GPS of Buses 
 . Submitted
 -->
+
+`2019`
+Bettignies, Y., Meirelles, J., Fernandez, G., Meinherz, F., Hoekman, P., Bouillard, P., & Athanassiadis, A. <a href="#" onclick="window.open('https://www.mdpi.com/2071-1050/11/12/3246')"> The Scale-Dependent Behaviour of Cities: A Cross-Cities Multiscale Driver Analysis of Urban Energy Use</a>. Sustainability 2019, 11(12), 3246; https://doi.org/10.3390/su11123246
 
 `2018`
 Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. <a href="#" onclick="window.open('https://www.mdpi.com/1099-4300/20/11/834')"> Cities, from Information to Interaction</a>. Entropy 2018, 20(11), 834; https://doi.org/10.3390/e20110834
