@@ -295,8 +295,8 @@ __Universidad Autonoma de Madrid__, ES
 ## Languages
 Portuguese native<br>
 English fluent<br>
-Spanish fluent<br>
-French intermediate
+Spanish advanced<br>
+French basic
 
 ## Programming
 R<br>
