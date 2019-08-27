@@ -56,7 +56,7 @@ __USP | São Paulo Univerity, BR__
 
 `2008-2012`
 __UFF | Fluminense Federal University, BR__
-- BSc in Environmental and Water Resources Engineering / <a href="#" onclick="window.open('http://www.tgh.uff.br/images/stories/JoaoMeirelles_PF2.pdf')">Pattern Recognition of Urban Environmental Impact through data mining [PT]</a>
+- BSc in Environmental and Water Resources Engineering / <a href="#" onclick="window.open('https://drive.google.com/file/d/1h5E9trkciGEm4KxcGvYPXsO7rJi-MDFe/view?usp=sharing')">Pattern Recognition of Urban Environmental Impact through data mining [PT]</a>
 
 
 
@@ -67,21 +67,17 @@ __UFF | Fluminense Federal University, BR__
 
 ### Journals
 
-<!--
-`2019`
-Pang, M; Meirelles, J; Moreau V; Binder, C. A consumption-based carbon footprint model with household budget surveys: Assessing the impact of urbanization and socioeconomic variables on household greenhouse gas emissions in Switzerland. In preparation
--->
 
 <!--
 `2019`
 Ribeiro, F; Meirelles, J; Arcaute, E; Netto, V; Rodrigues, C; Baronchelli, A. On the relation between Transversal and Longitudinal Scaling in Cities. In preparation
 -->
 
-<!--
 `2019`
-Wills, W; Meirelles J; Cerdeira P. A Sinuosity-based method to estimate GHG Emissions from GPS of Buses 
-. Submitted
--->
+Pang, M; Meirelles, J; Moreau V; Binder, C. Urban carbon footprints: a consumption-based approach for Swiss households. Submitted
+
+`2019`
+Wills, W; Meirelles J; Baptista V; Cury G; Cerdeira P. <a href="#" onclick="window.open('https://arxiv.org/abs/1907.09335')"> A Simple Sinuosity-Based Method using GPS data to Support Mitigation Policies for Public Buses GHG Emissions</a>. Preprint
 
 `2019`
 Bettignies, Y., Meirelles, J., Fernandez, G., Meinherz, F., Hoekman, P., Bouillard, P., & Athanassiadis, A. <a href="#" onclick="window.open('https://www.mdpi.com/2071-1050/11/12/3246')"> The Scale-Dependent Behaviour of Cities: A Cross-Cities Multiscale Driver Analysis of Urban Energy Use</a>. Sustainability 2019, 11(12), 3246; https://doi.org/10.3390/su11123246
