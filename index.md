@@ -68,13 +68,14 @@ __UFF | Fluminense Federal University, BR__
 ### Journals
 
 
-<!--
 `2019`
-Ribeiro, F; Meirelles, J; Arcaute, E; Netto, V; Rodrigues, C; Baronchelli, A. On the relation between Transversal and Longitudinal Scaling in Cities. In preparation
--->
+Ribeiro, F; Meirelles, J; Netto, V; Rodrigues, C; Baronchelli, A. On the relation between Transversal and Longitudinal Scaling in Cities. Preprint
 
 `2019`
 Pang, M; Meirelles, J; Moreau V; Binder, C. Urban carbon footprints: a consumption-based approach for Swiss households. Submitted
+
+`2019`
+Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. Cidades como informação. Submitted
 
 `2019`
 Wills, W; Meirelles J; Baptista V; Cury G; Cerdeira P. <a href="#" onclick="window.open('https://arxiv.org/abs/1907.09335')"> A Simple Sinuosity-Based Method using GPS data to Support Mitigation Policies for Public Buses GHG Emissions</a>. Preprint
@@ -85,24 +86,21 @@ Bettignies, Y., Meirelles, J., Fernandez, G., Meinherz, F., Hoekman, P., Bouilla
 `2018`
 Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. <a href="#" onclick="window.open('https://www.mdpi.com/1099-4300/20/11/834')"> Cities, from Information to Interaction</a>. Entropy 2018, 20(11), 834; https://doi.org/10.3390/e20110834
 
-
 `2018`
 Meirelles, J; Neto CR J; Ribeiro FL; Ribeiro FL; Ferreira FF; Binder CR.  <a href="#" onclick="window.open('https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204574')">Evolution of urban scaling: evidence from Brazil</a>. PLoS ONE 13(10): e0204574. https://doi.org/10.1371/journal.pone.0204574
 
-
 `2018`
-Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>. Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985 [<a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">PT version</a>]
+Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://journals.openedition.org/cybergeo/28985')">A temporal geography of encounters</a>. Cybergeo : European Journal of Geography [Online], Space, Society,Territory, document 844, Online since 05 February 2018. doi:10.4000/cybergeo.28985 <!--[<a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">PT version</a>]-->
 
-<!--
+
 `2018`
 Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://periodicos.pucpr.br/index.php/Urbe/article/view/20717')">Cidade e interação: o papel do espaço urbano na organização social</a>. Revista Brasileira de Gestão Urbana, 10(2), 2018
--->
-<!--
+
 `2017`
 Netto, VM; Meirelles, J; Pinheiro, M; Lorea, H. <a href="#" onclick="window.open('http://www.segeth.df.gov.br/wp-conteudo/uploads/2018/05/Netto-Meirelles-Pinheiro-e-Lorea-2017-Uma-geografia-temporal-do-encontro.pdf')">Uma geografia temporal do encontro</a> Revista de Morfologia Urbana, 5(2), 85-101, 2017
--->
+
 `2017`
-Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503 [<a href="#" onclick="window.open('https://periodicos.pucpr.br/index.php/Urbe/article/view/20717')">PT version</a>]
+Netto, VM; Meirelles J; Ribeiro FL. <a href="#" onclick="window.open('https://www.hindawi.com/journals/complexity/2017/6182503/')">Social Interaction and the City: The Effect of Space on the Reduction of Entropy</a>. Complexity, vol. 2017, Article ID 6182503, 16 pages, 2017. doi:10.1155/2017/6182503 <!--[<a href="#" onclick="window.open('https://periodicos.pucpr.br/index.php/Urbe/article/view/20717')">PT version</a>]-->
 
 `2017`
 Ribeiro FL; Meirelles J; Ferreira FF; Neto CR. <a href="#" onclick="window.open('http://rsos.royalsocietypublishing.org/content/4/3/160926')">A model of urban scaling laws based on distance- dependent interactions</a>. Royal Society open science 4: 160926. 2017
