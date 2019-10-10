@@ -69,7 +69,9 @@ __UFF | Fluminense Federal University, BR__
 
 
 `2019`
-Ribeiro, F; Meirelles, J; Netto, V; Rodrigues, C; Baronchelli, A. On the relation between Transversal and Longitudinal Scaling in Cities. Preprint
+Ribeiro, F; Meirelles, J; Netto, V; Rodrigues, C; Baronchelli, A. <a href="#" onclick="window.open('https://arxiv.org/abs/1910.02113')"> On the relation between Transversal and Longitudinal Scaling in Cities</a>. Preprint
+
+
 
 `2019`
 Pang, M; Meirelles, J; Moreau V; Binder, C. Urban carbon footprints: a consumption-based approach for Swiss households. Submitted
