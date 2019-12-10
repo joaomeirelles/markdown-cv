@@ -67,20 +67,17 @@ __UFF | Fluminense Federal University, BR__
 
 ### Journals
 
-
 `2019`
 Ribeiro, F; Meirelles, J; Netto, V; Rodrigues, C; Baronchelli, A. <a href="#" onclick="window.open('https://arxiv.org/abs/1910.02113')"> On the relation between Transversal and Longitudinal Scaling in Cities</a>. Preprint
-
-
-
-`2019`
-Pang, M; Meirelles, J; Moreau V; Binder, C. Urban carbon footprints: a consumption-based approach for Swiss households. Submitted
 
 `2019`
 Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. Cidades como informação. Submitted
 
 `2019`
 Wills, W; Meirelles J; Baptista V; Cury G; Cerdeira P. <a href="#" onclick="window.open('https://arxiv.org/abs/1907.09335')"> A Simple Sinuosity-Based Method using GPS data to Support Mitigation Policies for Public Buses GHG Emissions</a>. Preprint
+
+`2019`
+Pang, M., Meirelles, J., Moreau, V., & Binder, C. <a href="#" onclick="window.open('https://iopscience.iop.org/article/10.1088/2515-7620/ab59c5/meta')"> Urban carbon footprints: a consumption-based approach for Swiss households</a> Environmental Research Communications, 2019, 2(1), 011003.
 
 `2019`
 Bettignies, Y., Meirelles, J., Fernandez, G., Meinherz, F., Hoekman, P., Bouillard, P., & Athanassiadis, A. <a href="#" onclick="window.open('https://www.mdpi.com/2071-1050/11/12/3246')"> The Scale-Dependent Behaviour of Cities: A Cross-Cities Multiscale Driver Analysis of Urban Energy Use</a>. Sustainability 2019, 11(12), 3246; https://doi.org/10.3390/su11123246
@@ -305,5 +302,5 @@ bash<br>
 <br>
 <br>
 
-Last updated: March 2019
+Last updated: Nov 2019
 
