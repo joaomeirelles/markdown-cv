@@ -71,7 +71,8 @@ __UFF | Fluminense Federal University, BR__
 Ribeiro, F; Meirelles, J; Netto, V; Rodrigues, C; Baronchelli, A. <a href="#" onclick="window.open('https://arxiv.org/abs/1910.02113')"> On the relation between Transversal and Longitudinal Scaling in Cities</a>. Preprint
 
 `2019`
-Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Pace, B.; Cacholas, C.; Sanches, P. Cidades como informação. Submitted
+Netto, V.M.; Brigatti, E.; Meirelles, J.; Ribeiro, F.L.; Cacholas, C. <a href="#" onclick="window.open('http://www.nomads.usp.br/virus/virus19/?sec=4&item=1&lang=pt')"> Cidades como informação</a> V!RUS, São Carlos, n. 19, 2019
+
 
 `2019`
 Wills, W; Meirelles J; Baptista V; Cury G; Cerdeira P. <a href="#" onclick="window.open('https://arxiv.org/abs/1907.09335')"> A Simple Sinuosity-Based Method using GPS data to Support Mitigation Policies for Public Buses GHG Emissions</a>. Preprint
